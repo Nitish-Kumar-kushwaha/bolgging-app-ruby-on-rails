@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # bolgging-app-ruby-on-rails
+# blog-app-ruby-on-rails
